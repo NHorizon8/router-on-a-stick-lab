@@ -1,6 +1,6 @@
 **==Note : For best experiance open file in obsidian==**
 
-![[topology image.png]]
+![](topology%20image.png)
 
 # Router-on-a-Stick Lab
 

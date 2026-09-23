@@ -1,21 +1,18 @@
 **Router interface and ip config info**
-
-![[Pasted image 20260923111424.png]]
+![](router%20int%20ip.png)
 
 **Router routing table with connected route** 
 
-![[Pasted image 20260923111806.png]]
+![](router%20route.png)
 
 **Switch  interface info** 
 
-![[Pasted image 20260923112250.png]]
-
-![[Pasted image 20260923112333.png]]
+![](sh%20ip%20int%20br.png)
 
 **Vlan info**
 
-![[Pasted image 20260923112435.png]]
+![](sh%20vlan%20br.png)
 
 **trunk info**
 
-![[Pasted image 20260923114642.png]]
+![](sh%20int%20tr.png)
